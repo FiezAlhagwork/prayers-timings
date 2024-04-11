@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+background-color:#1b1b1f;
+font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+html{
+  direction: rtl;
+}
